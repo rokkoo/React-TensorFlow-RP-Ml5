@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description 
+This ropository contains nodejs code using ml5 posenet library, to predict single o multiple person real time predictions.
+
 
 ## Available Scripts
 
